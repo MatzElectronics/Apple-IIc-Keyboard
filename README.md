@@ -1,5 +1,5 @@
-# Apple-IIc-Keyboard
-Replacement keyboard for the Apple IIc computer
+# Apple *II*c Keyboard
+Replacement keyboard for the Apple *II*c computer
 
 ![image](https://github.com/user-attachments/assets/be5742c0-a857-4f60-b6f3-0d3c833df9af)
 
