@@ -10,15 +10,15 @@ Connections:
 | Col 6 | 19 | 7  | 8  | 12 | Row 3 |
 | Col 7 | 20 | 9  | 10 | 11 | Row 6 |
 | Disk LED | 21 | 11 | 12 | 10 | Col 0 |
-| NC | -- | 13 | 14 | 9  | Row 4 |
-| Keyboard Key | -- | 15 | 16 | 8  |  Key |
-| NC | -- | 17 | 18 | 7  | Col 2 |
-| 80/40 Key | -- | 19 | 20 | 6  | Col 3 |
+| - | - | 13 | 14 | 9  | Row 4 |
+| Keyboard Key | - | 15 | 16 | 8  |  Key |
+| - | - | 17 | 18 | 7  | Col 2 |
+| 80/40 Key | - | 19 | 20 | 6  | Col 3 |
 | GND | GND | 21 | 22 | 5  | Row 2 |
 | VCC | 3V | 23 | 24 | 4  | Row 1 |
-| NC | -- | 25 | 26 | 3  | ![image](https://github.com/user-attachments/assets/b49f1246-6cbf-4148-8a9d-f9158ccd5ae8) Key |
-| Power LED | -- | 27 | 28 | 2  | Caps Key |
-| Reset Key | -- | 29 | 30 | --  | NC |
+| - | - | 25 | 26 | 3  | ![image](https://github.com/user-attachments/assets/b49f1246-6cbf-4148-8a9d-f9158ccd5ae8) Key |
+| Power LED | - | 27 | 28 | 2  | Caps Key |
+| Reset Key | - | 29 | 30 | -  | - |
 | Row 0 | 27 | 31 | 32 | 1  | Control Key |
 | Col 1 | 28 | 33 | 34 | 0  | Shift Keys |
 
