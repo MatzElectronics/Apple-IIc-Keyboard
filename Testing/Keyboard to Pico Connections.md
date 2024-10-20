@@ -18,9 +18,9 @@ Connections:
 | VCC | 3V | 23 | 24 | 4  | Row 1 |
 | NC | -- | 25 | 26 | 3  | ![image](https://github.com/user-attachments/assets/b49f1246-6cbf-4148-8a9d-f9158ccd5ae8) Key |
 | Power LED | -- | 27 | 28 | 2  | Caps Key |
-| Reset Key | -- | 29 | 30 | 1  | NC |
-| Row 0 | 22 | 31 | 32 | 0  | Control Key |
-| Col 1 | 23 | 33 | 34 | 4  | Shift Keys |
+| Reset Key | -- | 29 | 30 | --  | NC |
+| Row 0 | 27 | 31 | 32 | 1  | Control Key |
+| Col 1 | 28 | 33 | 34 | 0  | Shift Keys |
 
 Connect the Keyboard Key to the Disk LED
 
