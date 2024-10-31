@@ -1,4 +1,4 @@
-## Apple IIc to USB Converter using a Raspberry Pi Pico and CircuitPython
+## Apple IIc Keyboard to USB Converter using a Raspberry Pi Pico and CircuitPython
 
 Connections:
 
